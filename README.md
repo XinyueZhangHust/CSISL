@@ -84,7 +84,7 @@ We provide a training script `script_train.py` to facilitate the use of our prop
 ```
 If you want to evaluate the model after training, add `--test_only`.
 
-The PTH file required for the test can be obtained here (https://www.alipan.com/s/XPbZ2hAiWow).
+The trained .pth file is available in the ./checkpoints directory.
 
 
 
