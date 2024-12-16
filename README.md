@@ -1,5 +1,5 @@
 This is the implementation of CSISL. 
-Title of the paper: Rethinking the Influence of Distribution Adjustment in Incremental Segmentation (ICLR 2025).
+Title of the paper: Rethinking the Influence of Distribution Adjustment in Incremental Segmentation.
 
 ## Requirements
 All experiments in this paper are done with the following environments:
