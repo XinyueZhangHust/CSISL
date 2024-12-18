@@ -1,5 +1,5 @@
 ## Rethinking the Influence of Distribution Adjustment in Incremental Segmentation
-This is the implementation of CSISL. 
+This is the implementation of CSISL. \\
 Title of the paper: Rethinking the Influence of Distribution Adjustment in Incremental Segmentation.
 
 ## News
