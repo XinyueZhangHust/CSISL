@@ -89,7 +89,7 @@ We provide a training script `script_train.py` to facilitate the use of our prop
 ```
 If you want to evaluate the model after training, add `--test_only`.
 
-The trained .pth file is available in the ./checkpoints directory.
+The trained .pth file is available in the `./checkpoints` directory.
 
 
 
