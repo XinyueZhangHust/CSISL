@@ -5,6 +5,7 @@ Title of the paper: Rethinking the Influence of Distribution Adjustment in Incre
 
 ## News
 February 20, 2025: Received the 'Major Revision' decision from TMM. 🎉
+
 December 16, 2024: Submit the paper to TMM，model codes and some results are released 🔥
 
 ## Requirements
