@@ -4,6 +4,8 @@ This is the implementation of CSISL.
 Title of the paper: Rethinking the Influence of Distribution Adjustment in Incremental Segmentation.
 
 ## News
+May 5, 2025: Received the Decision to ACCEPT from TMM 🎉
+
 February 20, 2025: Received the 'Major Revision' decision from TMM. 🎉
 
 December 16, 2024: Submit the paper to TMM，model codes and some results are released 🔥
